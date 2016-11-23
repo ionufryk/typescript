@@ -1,0 +1,19 @@
+{
+  "name": "hw-typescript",
+  "version": "1.0.0",
+  "description": "hw-typescript",
+  "main": "index.js",
+  "author": "IOnufryk",
+  "license": "ISC",
+  "private": true,
+  "engines": {
+    "npm": "~4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "chromedriver": "^2.21.2",
+    "protractor": "^3.2.2",
+    "selenium-standalone-jar": "^2.48.2",
+    "typescript": "1.7.5"
+  }
+}
